@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Profloth
 - 👀 I’m interested in programming websites, applications, programs, etc...
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
-- 💞️ I’m looking for people who can help me free, and teach me a bit
-- 📫 How to reach me: Facebook: Profloth Primo
+- 🌱 I’m currently learning HTML, CSS, (with the basics of javascript)
+- 💞️ I’m looking for people who can help me, and teach me a bit
 - 🎭 I'm also looking for someone who wants to partner with me and collaborate in different projects
 
 <!---
